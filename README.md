@@ -32,7 +32,7 @@ Real-time visualization of performance, bottlenecks, and workflow metrics.
 Track **who** did **what**, **when**, and **how** for full accountability.
 
 ### 📱 Cross-Platform Synchronization
-Stay updated on **all devices**, even offline with auto-sync.
+Stay updated on **all devices**.
 
 ### 🎯 Designed for Business Complexity
 Taskify supports:
