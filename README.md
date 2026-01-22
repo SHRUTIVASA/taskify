@@ -58,7 +58,7 @@ Unlike simple apps, Taskify balances **structure** with **flexibility**:
 - Firebase account
 ### 2️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/taskify.git
+git clone https://github.com/SHRUTIVASA/taskify.git
 cd taskify
 ```
 ### 3️⃣ Install Dependencies
